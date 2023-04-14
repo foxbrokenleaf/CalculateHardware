@@ -1,4 +1,4 @@
-# 我的多此一举的计算器 CalculateHadware
+# 我的多此一举的计算器 CalculateHardware
   The project use MCU(ESP8266) to make a calculator for hardware.
   ## 所需软件
   ArduinoIDE
