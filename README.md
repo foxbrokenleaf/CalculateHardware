@@ -8,7 +8,7 @@
   
   NULL
   ## 原理图
-  https://github.com/foxbrokenleaf/CalculateHardware/tree/main/Design/design.png
+  ![contents](https://github.com/foxbrokenleaf/CalculateHardware/tree/main/Design/design.png)
   ## PCB板图
   NULL
   ## BOM表
