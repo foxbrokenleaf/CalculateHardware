@@ -10,7 +10,7 @@
   ## 原理图
   ![contents](https://github.com/foxbrokenleaf/CalculateHardware/tree/main/Design/design.png)
   ## PCB板图
-  NULL
+  ![contents](https://github.com/foxbrokenleaf/CalculateHardware/tree/main/Design/PCB_PCB2_2023-04-15.pdf)
   ## BOM表
-  NULL
+  ![contents](https://github.com/foxbrokenleaf/CalculateHardware/tree/main/Design/BOM.png)
   
